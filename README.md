@@ -48,14 +48,21 @@ Model: CNN trained on 28x28 grayscale images
 Inputs: Normalized images with optional pressure-based stroke width
 
 👥 Team ScribbleSync
+
 Kanimozhi   – Frontend & Canvas Drawing Logic
+
 Kannishka   – Website Design + Research
+
 Manisha     – Integration & UX
+
 Ranjit      - Flask & Backend
+
 Prathikshaa - Database Manager
+
 Meyyappan   – ML, Model Tuning
 
 🙌 Acknowledgements
+     
       EMNIST Dataset
 
       TensorFlow & Keras
